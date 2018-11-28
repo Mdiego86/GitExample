@@ -1,5 +1,5 @@
 def foo():
-  msg = "A"
+  msg = "B"
   return msg
 
 print "Hello world"
